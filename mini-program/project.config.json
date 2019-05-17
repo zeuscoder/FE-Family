@@ -1,0 +1,16 @@
+{
+	"description": "a simple mini program",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wxddaae393f2a7cbdb",
+	"projectname": "zeus-mini-program",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
