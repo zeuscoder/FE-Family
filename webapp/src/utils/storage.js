@@ -1,3 +1,7 @@
+/**
+ * 本地缓存工具类
+ */
+
 const APP_STORAGE_KEY = 'ZEUS_WEB_APP';
 
 /**
